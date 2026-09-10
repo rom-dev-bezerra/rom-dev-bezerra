@@ -6,7 +6,7 @@
 ## Linguagens e Tecnologias 💻
 
 <div style="display: inline-block"><br>
-  <img align="center" alt="Java" height="40" width="40" src="githubusercontent.com" />
+  <img align="center" alt="Java" height="40" width="40" src="jsdelivr.net" />
   <img align="center" alt="Spring" height="40" width="40" src="githubusercontent.com" />
   <img align="center" alt="Postgres" height="40" width="40" src="githubusercontent.com" />
   <img align="center" alt="JavaScript" height="40" width="40" src="githubusercontent.com" />
