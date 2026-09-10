@@ -1,7 +1,7 @@
 # Olá, eu sou o Romulo
 
 - 📚 Estudando Análise e Desenvolvimento de sistemas.
-- 💻 Dev. Front-end
+- 💻 Software Engineer | Java Backend Developer
 
 ## Linguagens e Tecnologias 💻
 
