@@ -6,7 +6,6 @@
 ## Linguagens e Tecnologias 💻
 
 <div style="display: inline-block"><br>
-  <img align="center" alt="Romulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Romulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Romulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Romulo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -17,3 +16,7 @@
 ## Minhas Estatísticas 📊
 
 <img src="https://github-readme-stats.vercel.app/api?username=rom-dev-silva&show_icons=true&theme=dark&include_all_commits=true" alt="Estatísticas do GitHub de Romulo">
+
+## 📫 Vamos nos conectar?
+
+* **LinkedIn:** [linkedin.com/in/romulosilva7](https://www.linkedin.com/in/romulosilva7)
